@@ -31,7 +31,7 @@ Scripthash = 0xf3c691a512878f4c3823a3019eba04c33f6a6083
   
   * *Create*: invoke 0xf3c691a512878f4c3823a3019eba04c33f6a6083 create ["PollCreatorPublicAdd","PollID","Question"]
 
-    The ID must he returned by the function GetStorage from NOS. `key = PollCreatorPublicAdd+"ID"`
+    
     
   * *Access*: invoke 0xf3c691a512878f4c3823a3019eba04c33f6a6083 access ["PollCreatorPublicAdd","PollID"]
 
